@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronlefkow
 - 👀 I’m interested in learning new data and computer science skills
-- 🌱 I’m currently learning python, basic computer science, and front end development
+- 🌱 I’m currently learning computer science and front end development
 - 📫 Reach me at aaronlefkow@gmail.com
 
 <!---
